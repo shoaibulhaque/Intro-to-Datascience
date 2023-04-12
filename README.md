@@ -5,4 +5,4 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](https://jupyter.org/try)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shoaibulhaque/Intro-to-Datascience/main)
 
-This repository contains basic Jupyter notebooks on data science topics such as data cleaning, data visualization, machine learning, and more
+This repository contains basic Jupyter notebooks on data science.
