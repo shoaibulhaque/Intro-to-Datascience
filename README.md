@@ -6,4 +6,4 @@
 [![Binder](https://img.shields.io/badge/Launch-Notebooks-brightgreen.svg?style=for-the-badge&logo=binder)](https://mybinder.org/v2/gh/shoaibulhaque/Intro-to-Datascience/main?urlpath=lab)
 
 
-This repository contains basic Jupyter notebooks on data science. Launch the notebooks using the button above.
+This repository contains basic Jupyter notebooks on data science topics. Launch the notebooks using the button above.
